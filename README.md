@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL, Data Science**
 
-- 👨‍💻 Check out my personal portfolio : **<a href=" " target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-edagottupavankalyan.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
