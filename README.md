@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/edagottu-pavan-kalyan-281681236/" target="_blank"> Edagottu Pavan Kalyan </a></h1>
 
-![20230825_175532](https://github.com/epavan162/epavan162/assets/102135027/72112b4a-9d25-4328-9121-4aeb04f1d10f)
 
 
 
