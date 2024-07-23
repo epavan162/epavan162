@@ -1,17 +1,19 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/edagottu-pavan-kalyan-281681236/" target="_blank"> Edagottu Pavan Kalyan </a></h1>
 
-
-
-
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Developer+%3A)" /> </h3>
+<h4>B.Tech in Computer Science | Proficient in C, C++, Java, and Python | Hands-on experience with HTML, CSS, Bootstrap, and JavaScript | Quick learner with a passion for new technologies..
 
-- 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL, Data Science**
+  
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-edagottupavankalyan.netlify.app/" target="_blank">Portfolio</a>**
+🔹 Open to: Software Developer, Frontend Developer, Java Developer, Python Developer roles.
 
-- 😄 Pronouns: He/His
+
+  
+
+💡 I’m dedicated to solving problems and staying current with technology trends. I aim to contribute to impactful projects and grow professionally in a dynamic environment.</h4>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
