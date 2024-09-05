@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td width="50%">
-  <h3 align="center">Portfolio Website</h3>
+  
   <div align="center">
     <a href='https://edagottu-pavan-kalyan-portfolio.netlify.app/' target="_blank">
       <img src="https://github.com/user-attachments/assets/48f4fbbb-0c81-4245-abaf-817e04e8db68" alt="Portfolio Website" style="max-width: 100%; height: auto;" />
