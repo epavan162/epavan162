@@ -14,21 +14,20 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <div align="center">
-          <a href='https://edagottu-pavan-kalyan-portfolio.netlify.app/' target="_blank">
-            <img src="https://github.com/user-attachments/assets/48f4fbbb-0c81-4245-abaf-817e04e8db68" alt="Portfolio Website" height="100%" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/epavan162/edagottu-pavan-kalyan-portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-            </a>  
-            <a href="https://edagottu-pavan-kalyan-portfolio.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live Site"/>
-            </a>
-          </p>
+  <h3 align="center">Portfolio Website</h3>
+  <div align="center">
+    <a href='https://edagottu-pavan-kalyan-portfolio.netlify.app/' target="_blank">
+      <img src="https://github.com/user-attachments/assets/48f4fbbb-0c81-4245-abaf-817e04e8db68" alt="Portfolio Website" style="max-width: 100%; height: auto;" />
+    </a>
+    <br><br>
+    <p>
+      <a href="https://github.com/epavan162/edagottu-pavan-kalyan-portfolio" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="GitHub Repository" />
+      </a>
+      <a href="https://edagottu-pavan-kalyan-portfolio.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live Site" />
+      </a>
+    </p>
           <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
           <p>This website showcases my skills, projects, and certifications. It is designed to provide an overview of my work and achievements.</p>
         </div>
