@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=800&color=F093FB&background=00000000&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Engineer+%7C+Web+%26+Mobile;⚙️+React+•+Go+•+FastAPI+•+Django+•+Docker;🔐+Auth+Systems+%7C+REST+APIs+%7C+RBAC;🐳+Production-grade+Containerized+Apps;💡+Building+things+that+scale+%26+last)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=800&color=F093FB&background=00000000&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Engineer+%7C+Web+%26+Mobile;⚙️+React+•+Go+•+FastAPI+•+Django+•+Docker;🔐+Auth+Systems+%7C+REST+APIs+%7C+RBAC;📱+React+Native+%7C+Expo+%7C+Offline-First+Apps;🐳+Production-grade+Containerized+Apps;💡+Building+things+that+scale+%26+last)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,14 +31,15 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
 - 🏢 **SDE-I @ Coffeebeans Consulting**, Bengaluru 🇮🇳
-- 🎓 **B.Tech CSE** — CGPA **8.69**
+- 🎓 **B.Tech CSE** — **82.27%**
 - 💼 **1+ Year** building production-grade apps
 - 🌐 **Web & Mobile** — React, React Native (Expo)
 - ⚙️ **Backend** — Go (Gin), FastAPI, Django, Node.js
 - 🔐 **Auth** — JWT, Google OAuth 2.0, RBAC
+- 📅 **Integrations** — Google Calendar, Google Meet, SendGrid, Slack API
 - 🤖 Built **Slack bots** to automate internal workflows
 - 🐳 Love clean, **Dockerized** architectures
-- 📡 **REST APIs** for enterprise staffing & SaaS platforms
+- 📡 **REST APIs** for ATS, EV, SaaS & enterprise platforms
 - 🌱 Exploring **Cloud Infrastructure & System Design**
 
 <br clear="right"/>
@@ -58,7 +59,9 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -67,9 +70,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -77,6 +83,8 @@
 ### 🔑 Auth & Integrations
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -92,17 +100,37 @@
 
 </div>
 
-> 🔹 Built enterprise **staffing & resource management** platform UI with **React.js + Django backend**
+**Applicant Tracking System (ATS)** — `React · Vite · FastAPI · PostgreSQL · SendGrid · Google Calendar API · Docker`
+
+> 🔹 Built end-to-end interview management workflows — scheduling, rescheduling, cancellation, feedback reminders & candidate communication
 >
-> 🔹 Developed **predictive maintenance platform** — web screens via OutSystems, backend with **FastAPI**
+> 🔹 Integrated **Google Calendar & Google Meet APIs** for automated event creation, attendee management, and meeting link generation
 >
-> 🔹 Built **web apps** (React.js) and **mobile apps** (React Native + Expo) for multiple client projects
+> 🔹 Implemented **SendGrid** email workflows for notifications, comment mentions, and vendor activation flows
 >
-> 🔹 Contributed to **Golang (Gin)** backend services and designed **REST APIs** for business logic
+> 🔹 Resolved production issues involving calendar sync, email delivery, API workflows, and Docker environments
+
+**Smart EV Charging Platform** — `React Native (Expo) · React · Vite · Tailwind CSS · Shadcn UI · Node.js · Express · Go (Gin) · PostgreSQL`
+
+> 🔹 Owned **mobile app development** for fleet drivers and EV consumers using React Native + Expo
 >
-> 🔹 Created **Slack bots** with Node.js + Slack API to automate reminders and internal notifications
+> 🔹 Built AI-based charging recommendations, vehicle dashboards, booking, SOS support, live session tracking, V2G sessions, and family account management
 >
-> 🔹 Collaborated with cross-functional teams to deliver **scalable and secure** production applications
+> 🔹 Contributed to **charging station management dashboards** and Go-based backend services
+
+**Predictive Maintenance Platform** — `OutSystems · JavaScript · FastAPI`
+
+> 🔹 Built UI screens in OutSystems with REST API integration for maintenance, work-order, contracts, and invoice modules
+>
+> 🔹 Implemented routing, state management, file uploads, camera access, and offline capability
+
+**Slack-Based Lunch Management App** — `Node.js · Slack API · Google Sheets API`
+
+> 🔹 Resolved production issues in Slack message workflows and lunch-marking lifecycle management
+>
+> 🔹 Fixed synchronization between Slack interactions and Google Sheets including Wednesday lunch-preference workflows
+
+---
 
 <div align="center">
 
@@ -110,13 +138,15 @@
 
 </div>
 
-> 🔹 Built and consumed **REST APIs** using **Django REST Framework**
+**Resource Management Platform** — `React.js · Vite · Zustand · Nx Monorepo · Django REST Framework · PostgreSQL · Vitest`
+
+> 🔹 Developed frontend modules for employee staffing, project allocation, and asset management
 >
-> 🔹 Developed frontend features with **React.js, Vite, Zustand** in an **Nx monorepo** setup
+> 🔹 Built role-based workflows for Super Admin, Admin, Viewer, and Requester users
 >
-> 🔹 Implemented new features and fixed bugs across full stack systems
+> 🔹 Integrated **Google OAuth, Zoho People, Airtable, and Slack** services
 >
-> 🔹 Improved code quality, system usability, and overall performance
+> 🔹 Wrote frontend tests with **Vitest** and improved code quality via SonarQube
 
 ---
 
@@ -144,7 +174,8 @@
 ✅ JWT auth via HTTP-only cookies &nbsp;&nbsp;
 ✅ Public profile sharing links &nbsp;&nbsp;
 ✅ Login activity dashboard &nbsp;&nbsp;
-✅ Fully Dockerized & production-ready
+✅ Schema migrations via golang-migrate &nbsp;&nbsp;
+✅ Fully Dockerized with Nginx — production-ready
 
 ---
 
@@ -162,17 +193,31 @@
 | Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens) |
 | Database & Infra | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-✅ Multi-tenant RBAC — Resident / Admin / Staff &nbsp;&nbsp;
-✅ Modules: Billing, Complaints, Visitors, Polls &nbsp;&nbsp;
+✅ Multi-tenant RBAC — Admin / Resident / Security / Treasurer &nbsp;&nbsp;
+✅ Modules: Billing, Complaints, Visitors, Polls, Notices &nbsp;&nbsp;
 ✅ REST APIs + relational DB schema design &nbsp;&nbsp;
 ✅ JWT + Google OAuth support &nbsp;&nbsp;
 ✅ Production Dockerized architecture
 
-</div>
-
 ---
 
+### 📱 The Atelier — Mobile Learning Platform
 
+> *Production-ready LMS mobile app with offline-first architecture.*
+
+| Tech | Stack |
+|:---:|:---:|
+| Mobile | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| Storage | ![SecureStore](https://img.shields.io/badge/SecureStore-black?style=flat-square) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-grey?style=flat-square) |
+| CI/CD | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) |
+
+✅ Offline-first with **stale-while-revalidate (SWR)** caching &nbsp;&nbsp;
+✅ Secure two-tier persistence — SecureStore (JWT) + AsyncStorage (content) &nbsp;&nbsp;
+✅ LegendList virtualization + React memoization for large catalogs &nbsp;&nbsp;
+✅ Bi-directional WebView integration for content delivery &nbsp;&nbsp;
+✅ Automated CI/CD — APK generation & release automation via GitHub Actions
+
+</div>
 
 ---
 
@@ -190,8 +235,8 @@
 
 | 🏫 Institution | 📚 Degree | 🗓️ Year | 📊 Score |
 |---|---|---|:---:|
-| Sree Vidyanikethan Engineering College | B.Tech — CSE | 2021 – 2024 | 🌟 **8.69 CGPA** |
-| Sri Venkateswara Government Polytechnic | Diploma — Computer Engineering | 2018 – 2021 | 🎯 **76%** |
+| Sree Vidyanikethan Engineering College | B.Tech — CSE | 2021 – 2024 | 🌟 **82.27%** |
+| Sri Venkateswara Government Polytechnic | Diploma — Computer Engineering | 2018 – 2021 | 🎯 **76.86%** |
 
 </div>
 
@@ -220,7 +265,7 @@
 <br/><br/>
 
 > 💡 *"I enjoy exploring new technologies and building projects that simulate real-world production systems."*
-> 
+>
 > 🚀 *Always open to opportunities where I can **learn, build, and contribute to impactful products**.*
 
 <br/>
